@@ -1,0 +1,69 @@
+# Node dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+web-build/
+dist/
+
+# Build output
+build/
+android/app/build/
+ios/build/
+ios/Pods/
+
+# Metro
+metro-cache/
+react-native-packager-cache-*/
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Test coverage
+coverage/
+
+# Python
+__pycache__/
+*.pyc
+
+# SQLite/DB
+*.db
+
+# Misc
+*.local
+*.keystore
+*.jks
+
+# iOS/Android local config
+ios/*.xcworkspace
+ios/*.xcuserstate
+ios/*.xcuserdata
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.cxx/
+android/captures/
+android/.externalNativeBuild/
+android/.DS_Store
+
+# Fastlane (if used)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Ignore backup files
+*~ 

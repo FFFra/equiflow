@@ -1,0 +1,9 @@
+node_modules/
+ios/
+android/
+build/
+*.lock
+*.log
+*.json
+*.md
+metro.config.js 

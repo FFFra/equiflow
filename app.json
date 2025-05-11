@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "republic-challenge-app",
+    "slug": "republic-challenge-app",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": ["ios", "android"],
+    "icon": "./assets/icon.png",
+    "ios": {
+      "bundleIdentifier": "com.fffra.republic-challenge-app",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.fffra.republic_challenge_app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "plugins": ["expo-asset", "expo-font"]
+  }
+}

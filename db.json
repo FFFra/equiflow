@@ -1,0 +1,605 @@
+{
+  "campaigns": 
+[
+  {
+    "id": 31079,
+    "name": "Laka Insurance",
+    "description": "Laka is redefining micro-mobility insurance in Europe.",
+    "cover_image": {
+      "cropped_location": "https://seedrs-staging-www.imgix.net/uploads/startup/summary/cover_image/32810/aeatpsz9hni2uy79p76xdojgkt8uj0/Card-Image.png?w=370&h=208&rect=0%2C10%2C720%2C388&fit=crop&s=75298bd689f3ae4e384ce40fad526ae1"
+    },
+    "logo": {
+      "cropped_location": "https://seedrs-staging-www.imgix.net/uploads/startup/summary/logo/32810/aeatpsz9hni2uy79p76xdojgkt8uj0/profile-photo-laka.png?w=130&h=130&rect=0%2C0%2C512%2C512&fit=crop&s=8a931213a438f68280e99100b5a4b2c6"
+    },
+    "investment_raised": {
+      "amount_in_cents": 756306621,
+      "currency": "GBP"
+    },
+    "investment_sought": {
+      "amount_in_cents": 749911015,
+      "currency": "GBP"
+    },
+    "equity_offered": "13.7346208183028",
+    "equity_offered_for_investment_raised": "13.835550002466011",
+    "number_of_investors": 126,
+    "percentage_amount_raised": "100.85",
+    "expires_at": "2025-04-24",
+    "type": "EquityCampaign",
+    "favourite": true,
+    "listed_type": "listed_for_shareholders_or_hnw_sophisticated",
+    "allowed_investor_type": "only_shareholders_or_hnw_sophisticated_allowed_to_invest",
+    "nth_round": 3,
+    "tax_eligibility": null,
+    "slug": "laka-insurance1",
+    "currency": "GBP",
+    "listed": true,
+    "video": {
+      "source": "none",
+      "id": null
+    },
+    "status": "raising",
+    "pre_money_valuation": {
+      "amount_in_cents": 4710094215,
+      "currency": "GBP"
+    },
+    "partner_image": null,
+    "maximum_investment_sought": {
+      "amount_in_cents": 0,
+      "currency": "GBP"
+    },
+    "featured": false,
+    "business_id": 34650,
+    "preemption": true,
+    "introducer": null,
+    "target_eu": false,
+    "eligible_for_membership_benefits": false,
+    "externally_approved": false,
+    "externally_approved_at": null,
+    "allowed_to_invest": true,
+    "address": {
+      "country": "GB",
+      "city": "London"
+    }
+  },
+  {
+    "id": 31046,
+    "name": "Lick",
+    "description": "Lick is the community-driven decorating movement on a mission to build Europe\u2019s largest decorating brand.",
+    "cover_image": {
+      "cropped_location": "https://seedrs-staging-www.imgix.net/uploads/startup/summary/cover_image/32774/7bftra7ns0ysbriv53xieqtyh0wwv59/Artboard_1_copy_8.jpg?w=370&h=208&fit=crop&s=c73882c726305f38077096142f43b929"
+    },
+    "logo": {
+      "cropped_location": "https://seedrs-staging-www.imgix.net/uploads/startup/summary/logo/32774/7bftra7ns0ysbriv53xieqtyh0wwv59/FINAL_Whatsapp_logo_lick.png?w=130&h=130&rect=65%2C63%2C509%2C509&fit=crop&s=9f9975fe5985772d75a9409edf50d1f7"
+    },
+    "investment_raised": {
+      "amount_in_cents": 439492096,
+      "currency": "GBP"
+    },
+    "investment_sought": {
+      "amount_in_cents": 400000544,
+      "currency": "GBP"
+    },
+    "equity_offered": "8.597357005",
+    "equity_offered_for_investment_raised": "9.366658494275326",
+    "number_of_investors": 543,
+    "percentage_amount_raised": "109.87",
+    "expires_at": "2025-05-15",
+    "type": "EquityCampaign",
+    "favourite": false,
+    "listed_type": "listed_for_everyone",
+    "allowed_investor_type": "everyone_allowed_to_invest",
+    "nth_round": 3,
+    "tax_eligibility": "EIS",
+    "slug": "join-lick",
+    "currency": "GBP",
+    "listed": true,
+    "video": {
+      "source": "vimeo",
+      "id": "1074357475"
+    },
+    "status": "raising",
+    "pre_money_valuation": {
+      "amount_in_cents": 4252598432,
+      "currency": "GBP"
+    },
+    "partner_image": null,
+    "maximum_investment_sought": {
+      "amount_in_cents": null,
+      "currency": "GBP"
+    },
+    "featured": false,
+    "business_id": 34855,
+    "preemption": false,
+    "introducer": null,
+    "target_eu": true,
+    "eligible_for_membership_benefits": true,
+    "externally_approved": false,
+    "externally_approved_at": null,
+    "allowed_to_invest": true,
+    "address": {
+      "country": "GB",
+      "city": "Manchester"
+    }
+  },
+  {
+    "id": 31094,
+    "name": "RideTandem",
+    "description": "Better transport options outside big cities, B2B2C model (shared shuttle services)",
+    "cover_image": {
+      "cropped_location": "https://seedrs-staging-www.imgix.net/uploads/startup/summary/cover_image/32827/ccv9ee2nv8x9gqmq7u20dgvyybwfsqo/ridetandem-homepage-card.png?w=370&h=208&rect=0%2C2%2C359%2C194&fit=crop&s=09c4a9df66fcab98aed6908f5e6b3c25"
+    },
+    "logo": {
+      "cropped_location": "https://seedrs-staging-www.imgix.net/uploads/startup/summary/logo/32827/ccv9ee2nv8x9gqmq7u20dgvyybwfsqo/t_logo.png?w=130&h=130&rect=0%2C0%2C1021%2C1021&fit=crop&s=80bc274f8bdd5e8c3799413796d0d4f5"
+    },
+    "investment_raised": {
+      "amount_in_cents": 92454544,
+      "currency": "GBP"
+    },
+    "investment_sought": {
+      "amount_in_cents": 89933688,
+      "currency": "GBP"
+    },
+    "equity_offered": "5.1724106992681",
+    "equity_offered_for_investment_raised": "5.3096960339290735",
+    "number_of_investors": 70,
+    "percentage_amount_raised": "102.8",
+    "expires_at": null,
+    "type": "EquityCampaign",
+    "favourite": false,
+    "listed_type": "listed_for_shareholders_or_hnw_sophisticated",
+    "allowed_investor_type": "only_shareholders_or_hnw_sophisticated_allowed_to_invest",
+    "nth_round": 5,
+    "tax_eligibility": "EIS",
+    "slug": "ridetandem",
+    "currency": "GBP",
+    "listed": true,
+    "video": {
+      "source": "none",
+      "id": null
+    },
+    "status": "raising",
+    "pre_money_valuation": {
+      "amount_in_cents": 1648785320,
+      "currency": "GBP"
+    },
+    "partner_image": null,
+    "maximum_investment_sought": {
+      "amount_in_cents": 0,
+      "currency": "GBP"
+    },
+    "featured": false,
+    "business_id": 34506,
+    "preemption": true,
+    "introducer": null,
+    "target_eu": false,
+    "eligible_for_membership_benefits": false,
+    "externally_approved": false,
+    "externally_approved_at": null,
+    "allowed_to_invest": true,
+    "address": {
+      "country": "GB",
+      "city": "Bristol"
+    }
+  },
+  {
+    "id": 31092,
+    "name": "CrowdToLive\u00ae and Bayuti",
+    "description": "Bringing together property investors and home buyers.",
+    "cover_image": {
+      "cropped_location": "https://seedrs-staging-www.imgix.net/uploads/startup/summary/cover_image/32825/52k4w7ketpepmpme7k43eihmql4m3k1/Seedrs_Landing_Page_Images__740___416px_.png?w=370&h=208&rect=0%2C0%2C740%2C399&fit=crop&s=859237d9f364015ac299c9991f9d0243"
+    },
+    "logo": {
+      "cropped_location": "https://seedrs-staging-www.imgix.net/uploads/startup/summary/logo/32825/52k4w7ketpepmpme7k43eihmql4m3k1/logo_crowdtolive.png?w=130&h=130&rect=0%2C0%2C100%2C100&fit=crop&s=875278f1ffefc3d25c23172bf9900b89"
+    },
+    "investment_raised": {
+      "amount_in_cents": 100924920,
+      "currency": "GBP"
+    },
+    "investment_sought": {
+      "amount_in_cents": 100000090,
+      "currency": "GBP"
+    },
+    "equity_offered": "19.6791734786064",
+    "equity_offered_for_investment_raised": "19.825090800166443",
+    "number_of_investors": 44,
+    "percentage_amount_raised": "100.92",
+    "expires_at": "2025-04-23",
+    "type": "EquityCampaign",
+    "favourite": false,
+    "listed_type": "listed_for_shareholders_or_hnw_sophisticated",
+    "allowed_investor_type": "only_shareholders_or_hnw_sophisticated_allowed_to_invest",
+    "nth_round": 3,
+    "tax_eligibility": "EIS",
+    "slug": "crowdtolive2",
+    "currency": "GBP",
+    "listed": true,
+    "video": {
+      "source": "none",
+      "id": null
+    },
+    "status": "raising",
+    "pre_money_valuation": {
+      "amount_in_cents": 408151790,
+      "currency": "GBP"
+    },
+    "partner_image": null,
+    "maximum_investment_sought": {
+      "amount_in_cents": 0,
+      "currency": "GBP"
+    },
+    "featured": false,
+    "business_id": 34880,
+    "preemption": true,
+    "introducer": null,
+    "target_eu": false,
+    "eligible_for_membership_benefits": false,
+    "externally_approved": false,
+    "externally_approved_at": null,
+    "allowed_to_invest": true,
+    "address": {
+      "country": "GB",
+      "city": "Edinburgh"
+    }
+  },
+  {
+    "id": 31011,
+    "name": "Shack Cabins",
+    "description": "A new challenger brand in architecture and construction, championing sustainable, design-led innovation.",
+    "cover_image": {
+      "cropped_location": "https://seedrs-staging-www.imgix.net/uploads/startup/summary/cover_image/32733/sob2x63q7uuna8q686o361lmofdq13p/Shack-Cabins_Europe-Card-Cover.png?w=370&h=208&fit=crop&s=f995e764aa7d40b642283ad3fe46d84e"
+    },
+    "logo": {
+      "cropped_location": "https://seedrs-staging-www.imgix.net/uploads/startup/summary/logo/32733/sob2x63q7uuna8q686o361lmofdq13p/Shack-Cabins_Europe-Card-Logo.png?w=130&h=130&fit=crop&s=f0bdaec5e06267a877af5ecf18e3be56"
+    },
+    "investment_raised": {
+      "amount_in_cents": 24310500,
+      "currency": "GBP"
+    },
+    "investment_sought": {
+      "amount_in_cents": 25000000,
+      "currency": "GBP"
+    },
+    "equity_offered": "4.761904762",
+    "equity_offered_for_investment_raised": "4.6366609098997635",
+    "number_of_investors": 167,
+    "percentage_amount_raised": "97.24",
+    "expires_at": "2025-04-23",
+    "type": "EquityCampaign",
+    "favourite": false,
+    "listed_type": "listed_for_everyone",
+    "allowed_investor_type": "everyone_allowed_to_invest",
+    "nth_round": 1,
+    "tax_eligibility": null,
+    "slug": "shack-cabins",
+    "currency": "GBP",
+    "listed": true,
+    "video": {
+      "source": "vimeo",
+      "id": "1055653066"
+    },
+    "status": "raising",
+    "pre_money_valuation": {
+      "amount_in_cents": 500000000,
+      "currency": "GBP"
+    },
+    "partner_image": null,
+    "maximum_investment_sought": {
+      "amount_in_cents": null,
+      "currency": "GBP"
+    },
+    "featured": false,
+    "business_id": 36085,
+    "preemption": false,
+    "introducer": null,
+    "target_eu": false,
+    "eligible_for_membership_benefits": true,
+    "externally_approved": false,
+    "externally_approved_at": "2025-02-13T00:00:00Z",
+    "allowed_to_invest": true,
+    "address": {
+      "country": "GB",
+      "city": "Leeds"
+    }
+  },
+  {
+    "id": 30998,
+    "name": "Airturb",
+    "description": "Airturb is an innovative development company committed to reimagine wind energy with local impact!",
+    "cover_image": {
+      "cropped_location": "https://seedrs-staging-mobil.imgix.net/uploads/startup/summary/cover_image/32717/3imq5w83rufacnrszbepwtcmv4oh2/Airturb_-_Cover_image_-_360_x_200.jpg?w=370&h=208&fit=crop&s=a1c0bd09cba7a95804beceb250012845"
+    },
+    "logo": {
+      "cropped_location": "https://seedrs-staging-mobil.imgix.net/uploads/startup/summary/logo/32717/3imq5w83rufacnrszbepwtcmv4oh2/Airturb_logo-02.jpg?w=130&h=130&rect=0%2C0%2C0%2C0&fit=crop&s=2f88e54f5e871e74933a2b7271699916"
+    },
+    "investment_raised": {
+      "amount_in_cents": 25800000,
+      "currency": "EUR"
+    },
+    "investment_sought": {
+      "amount_in_cents": 25000000,
+      "currency": "EUR"
+    },
+    "equity_offered": "4.761904762",
+    "equity_offered_for_investment_raised": "4.906808672499049",
+    "number_of_investors": 243,
+    "percentage_amount_raised": "103.2",
+    "expires_at": "2025-04-30",
+    "type": "EquityCampaign",
+    "favourite": false,
+    "listed_type": "listed_for_everyone",
+    "allowed_investor_type": "everyone_allowed_to_invest",
+    "nth_round": 1,
+    "tax_eligibility": null,
+    "slug": "airturb",
+    "currency": "EUR",
+    "listed": true,
+    "video": {
+      "source": "vimeo",
+      "id": "1055166360"
+    },
+    "status": "raising",
+    "pre_money_valuation": {
+      "amount_in_cents": 500000000,
+      "currency": "EUR"
+    },
+    "partner_image": null,
+    "maximum_investment_sought": {
+      "amount_in_cents": null,
+      "currency": "EUR"
+    },
+    "featured": false,
+    "business_id": 36077,
+    "preemption": false,
+    "introducer": null,
+    "target_eu": true,
+    "eligible_for_membership_benefits": true,
+    "externally_approved": false,
+    "externally_approved_at": "2025-02-11T00:00:00Z",
+    "allowed_to_invest": true,
+    "address": {
+      "country": "NL",
+      "city": "Amsterdam"
+    }
+  },
+  {
+    "id": 31044,
+    "name": "Long Lane",
+    "description": "A wellness focused hotel and members club, built to reshape the way we connect to self, others and nature",
+    "cover_image": {
+      "cropped_location": "https://seedrs-staging-mobil.imgix.net/uploads/startup/summary/cover_image/32771/5osnmlre4qrvblfzsatawsllhict1gw/Launching_Soon_Card.png?w=370&h=208&rect=0%2C0%2C0%2C0&fit=crop&s=bb153e0291705b91d3c28a901b86d201"
+    },
+    "logo": {
+      "cropped_location": "https://seedrs-staging-mobil.imgix.net/uploads/startup/summary/logo/32771/5osnmlre4qrvblfzsatawsllhict1gw/Screenshot_2025-02-19_at_09.13.36.png?w=130&h=130&rect=0%2C0%2C0%2C0&fit=crop&s=1de35ef3c962342585b0f6b349a79cea"
+    },
+    "investment_raised": {
+      "amount_in_cents": 34523595,
+      "currency": "GBP"
+    },
+    "investment_sought": {
+      "amount_in_cents": 40003200,
+      "currency": "GBP"
+    },
+    "equity_offered": "7.407407407",
+    "equity_offered_for_investment_raised": "6.458276493744397",
+    "number_of_investors": 79,
+    "percentage_amount_raised": "86.3",
+    "expires_at": "2025-05-14",
+    "type": "EquityCampaign",
+    "favourite": false,
+    "listed_type": "listed_for_everyone",
+    "allowed_investor_type": "everyone_allowed_to_invest",
+    "nth_round": 1,
+    "tax_eligibility": "EIS",
+    "slug": "long-lane",
+    "currency": "GBP",
+    "listed": true,
+    "video": {
+      "source": "vimeo",
+      "id": "1063276633"
+    },
+    "status": "raising",
+    "pre_money_valuation": {
+      "amount_in_cents": 500040000,
+      "currency": "GBP"
+    },
+    "partner_image": null,
+    "maximum_investment_sought": {
+      "amount_in_cents": null,
+      "currency": "GBP"
+    },
+    "featured": false,
+    "business_id": 36110,
+    "preemption": false,
+    "introducer": null,
+    "target_eu": true,
+    "eligible_for_membership_benefits": true,
+    "externally_approved": false,
+    "externally_approved_at": null,
+    "allowed_to_invest": true,
+    "address": {
+      "country": "GB",
+      "city": "Birmingham"
+    }
+  },
+  {
+    "id": 31037,
+    "name": "Langen Motorcycles",
+    "description": "Building on our domestic success to deliver new innovative and timeless motorcycles to a global market.",
+    "cover_image": {
+      "cropped_location": "https://seedrs-staging-mobil.imgix.net/uploads/startup/summary/cover_image/32762/o7jf0dgjcuf6t5bgx7hemoelys4ohv7/Langen_Campaign_Card_2.jpg?w=370&h=208&fit=crop&s=2d6e2464a7a7798acd7e988dd420e9ac"
+    },
+    "logo": {
+      "cropped_location": "https://seedrs-staging-mobil.imgix.net/uploads/startup/summary/logo/32762/o7jf0dgjcuf6t5bgx7hemoelys4ohv7/Langen_Logo_Square.png?w=130&h=130&fit=crop&s=caceadfec7470b245600477dd4e2d2ca"
+    },
+    "investment_raised": {
+      "amount_in_cents": 23812904,
+      "currency": "GBP"
+    },
+    "investment_sought": {
+      "amount_in_cents": 30000192,
+      "currency": "GBP"
+    },
+    "equity_offered": "7.706514937",
+    "equity_offered_for_investment_raised": "6.215906737833052",
+    "number_of_investors": 105,
+    "percentage_amount_raised": "79.38",
+    "expires_at": "2025-04-30",
+    "type": "EquityCampaign",
+    "favourite": false,
+    "listed_type": "listed_for_everyone",
+    "allowed_investor_type": "everyone_allowed_to_invest",
+    "nth_round": 1,
+    "tax_eligibility": "EIS",
+    "slug": "langen-motorcycles",
+    "currency": "GBP",
+    "listed": true,
+    "video": {
+      "source": "none",
+      "id": null
+    },
+    "status": "raising",
+    "pre_money_valuation": {
+      "amount_in_cents": 359283320,
+      "currency": "GBP"
+    },
+    "partner_image": null,
+    "maximum_investment_sought": {
+      "amount_in_cents": null,
+      "currency": "GBP"
+    },
+    "featured": false,
+    "business_id": 36107,
+    "preemption": false,
+    "introducer": null,
+    "target_eu": true,
+    "eligible_for_membership_benefits": true,
+    "externally_approved": false,
+    "externally_approved_at": null,
+    "allowed_to_invest": true,
+    "address": {
+      "country": "GB",
+      "city": "Glasgow"
+    }
+  },
+  {
+    "id": 31043,
+    "name": "Astra Mining",
+    "description": "Unlocking Kazakhstan\u2019s vast critical metal reserves to fuel the global transition to green energy.",
+    "cover_image": {
+      "cropped_location": "https://seedrs-staging-666dd.imgix.net/uploads/startup/summary/cover_image/32770/h2s2bl6t5pxr2etgvil12vzkejti619/Option_2.png?w=370&h=208&rect=0%2C0%2C0%2C0&fit=crop&s=df9029bbfd4eb48a3742c6dbc863cb3b"
+    },
+    "logo": {
+      "cropped_location": "https://seedrs-staging-666dd.imgix.net/uploads/startup/summary/logo/32770/h2s2bl6t5pxr2etgvil12vzkejti619/logo.png?w=130&h=130&rect=0%2C0%2C0%2C0&fit=crop&s=1db31627d5a3f1eb69277fbcdcd084fd"
+    },
+    "investment_raised": {
+      "amount_in_cents": 28861620,
+      "currency": "GBP"
+    },
+    "investment_sought": {
+      "amount_in_cents": 25000260,
+      "currency": "GBP"
+    },
+    "equity_offered": "3.030595754",
+    "equity_offered_for_investment_raised": "3.4823792745545235",
+    "number_of_investors": 308,
+    "percentage_amount_raised": "115.45",
+    "expires_at": "2025-04-30",
+    "type": "EquityCampaign",
+    "favourite": false,
+    "listed_type": "listed_for_everyone",
+    "allowed_investor_type": "everyone_allowed_to_invest",
+    "nth_round": 1,
+    "tax_eligibility": null,
+    "slug": "astra-mining",
+    "currency": "GBP",
+    "listed": true,
+    "video": {
+      "source": "none",
+      "id": null
+    },
+    "status": "raising",
+    "pre_money_valuation": {
+      "amount_in_cents": 799928633,
+      "currency": "GBP"
+    },
+    "partner_image": null,
+    "maximum_investment_sought": {
+      "amount_in_cents": null,
+      "currency": "GBP"
+    },
+    "featured": false,
+    "business_id": 36109,
+    "preemption": false,
+    "introducer": null,
+    "target_eu": false,
+    "eligible_for_membership_benefits": true,
+    "externally_approved": false,
+    "externally_approved_at": null,
+    "allowed_to_invest": true,
+    "address": {
+      "country": "GB",
+      "city": "Liverpool"
+    }
+  },
+  {
+    "id": 31093,
+    "name": "Your.Rentals",
+    "description": "Established short-term rentals management platform for hosts and small business agencies.",
+    "cover_image": {
+      "cropped_location": "https://seedrs-staging-666dd.imgix.net/uploads/startup/summary/cover_image/32826/2kc3893b1nerpbowtsr4lx226wzf59k/MobileImage.png?w=370&h=208&rect=0%2C42%2C691%2C373&fit=crop&s=aac119c1eaee95f46ebecf71502ff417"
+    },
+    "logo": {
+      "cropped_location": "https://seedrs-staging-666dd.imgix.net/uploads/startup/summary/logo/32826/2kc3893b1nerpbowtsr4lx226wzf59k/logo.png?w=130&h=130&rect=0%2C0%2C512%2C512&fit=crop&s=ecb9c0141f791754de00ea98d5169b06"
+    },
+    "investment_raised": {
+      "amount_in_cents": 170303624,
+      "currency": "EUR"
+    },
+    "investment_sought": {
+      "amount_in_cents": 169503604,
+      "currency": "EUR"
+    },
+    "equity_offered": "15.2790227262419",
+    "equity_offered_for_investment_raised": "15.340074089846247",
+    "number_of_investors": 31,
+    "percentage_amount_raised": "100.47",
+    "expires_at": "2025-04-23",
+    "type": "EquityCampaign",
+    "favourite": false,
+    "listed_type": "listed_for_shareholders_or_hnw_sophisticated",
+    "allowed_investor_type": "only_shareholders_or_hnw_sophisticated_allowed_to_invest",
+    "nth_round": 2,
+    "tax_eligibility": null,
+    "slug": "your-rentals1",
+    "currency": "EUR",
+    "listed": true,
+    "video": {
+      "source": "none",
+      "id": null
+    },
+    "status": "raising",
+    "pre_money_valuation": {
+      "amount_in_cents": 939884130,
+      "currency": "EUR"
+    },
+    "partner_image": null,
+    "maximum_investment_sought": {
+      "amount_in_cents": 0,
+      "currency": "EUR"
+    },
+    "featured": false,
+    "business_id": 35550,
+    "preemption": true,
+    "introducer": null,
+    "target_eu": false,
+    "eligible_for_membership_benefits": false,
+    "externally_approved": false,
+    "externally_approved_at": null,
+    "allowed_to_invest": true,
+    "address": {
+      "country": "DK",
+      "city": "Copenhagen"
+    }
+  }
+]
+}
