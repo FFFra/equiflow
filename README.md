@@ -2,6 +2,17 @@
 
 This project is an implementation for Part I of the React Native Senior Engineer Technical Challenge for Republic.
 
+
+## iOS
+https://github.com/user-attachments/assets/d7cabe6c-5a15-471f-9c70-c8d5fb83d72d
+
+## Android
+https://github.com/user-attachments/assets/0802919c-f667-4b9b-9bef-dcdd8f00f6d4
+
+## Splash
+<img width="537" alt="splashScreen" src="https://github.com/user-attachments/assets/1df89460-3e0b-4464-b85e-6f8118476bfd" />
+
+
 ## Project Overview
 
 The objective was to build the foundation of a React Native app that includes authentication (PIN and biometric), a home screen to list investment campaigns, navigation, and local state management for user interactions (follow/hide campaigns). The application was developed focusing on code quality and scalable architecture.
