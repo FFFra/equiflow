@@ -1,7 +1,3 @@
-# React Native Tech Challenge - Republic
-
-This project is an implementation for Part I of the React Native Senior Engineer Technical Challenge for Republic.
-
 
 ## iOS
 https://github.com/user-attachments/assets/d7cabe6c-5a15-471f-9c70-c8d5fb83d72d
